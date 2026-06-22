@@ -1,0 +1,50 @@
+terraform.tfstate
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Terraform State
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraform Variables
+*.tfvars
+*.tfvars.json
+
+# Terraform Plans
+*.tfplan
+
+# Local Override Files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Environment Variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# AWS Credentials
+credentials
+config
+.aws/
+
+# Ansible
+*.retry
