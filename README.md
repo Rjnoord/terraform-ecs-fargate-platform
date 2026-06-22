@@ -1,3 +1,5 @@
+<img width="1470" height="956" alt="Screenshot 2026-06-22 at 2 53 28 PM" src="https://github.com/user-attachments/assets/6c045e2d-2eac-4cf7-a31f-6dfda6dc914b" />
+<img width="1470" height="956" alt="Screenshot 2026-06-22 at 2 53 49 PM" src="https://github.com/user-attachments/assets/19a7c862-5c61-48c3-9d11-83d2a4c2cf84" />
 # AWS ECS Fargate Platform with Terraform
 
 ## Overview
